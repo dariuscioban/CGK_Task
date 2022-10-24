@@ -10,7 +10,6 @@ Run from the root of this repository:
 ```
 conda env update -f environment.yml
 conda active CGK_task
-pip install -e
 ```
 
 ### Using pip
