@@ -2,6 +2,16 @@
 
 Setup and run guide for the Flask application.
 
+## Requirement
+
+Please write a Python Flask application that presents your CV data:
+
+- As a JSON REST API with endpoints GET /personal, GET /experience, GET /education, ...
+- As a Flask CLI command that prints the data to the console
+The CV data can be hard-coded in the code or read from disk. You do not need to integrate with any database. Please include a README file on how to start the REST API and how to execute the CLI command.
+
+It’s not a problem if you do not manage to get to a working version. Just send us the code you’ve written and describe the issue that is blocking you.
+
 ## Setup
 
 ### Using Anaconda
