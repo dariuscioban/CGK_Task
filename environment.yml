@@ -1,0 +1,10 @@
+name: CGK_task
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - pip
+  - pip:
+    - flask >= 2.2.2

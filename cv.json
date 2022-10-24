@@ -1,0 +1,49 @@
+{
+  "personal": {
+    "name": "Darius Cioban",
+    "phone": "+40749766003",
+    "email": "dcioban@yahoo.com",
+    "location": "Cluj-Napoca, Cluj, Romania"
+  },
+  "experience": [
+    {
+      "workplace": "Exigea",
+      "position": "Software Engineer",
+      "project": "U-Pax Crawling",
+      "duration_in_months": 5,
+      "description": "Maintained and implemented new features on the crawling algorithms"
+    },
+    {
+      "workplace": "Rudymental IT",
+      "position": "Software Engineer",
+      "project": "Arovit",
+      "duration_in_months": 6,
+      "description": "Designed and implemented a software application responsible for automating distribution shipments."
+    },
+    {
+      "workplace": "Luxoft Professional Romania",
+      "position": "Python Developer",
+      "project": "Apstra",
+      "duration_in_months": 20,
+      "description": "Implemented features/tests based on given HDL documents."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A.",
+      "major": "Computer Science",
+      "university": "Technical University of Cluj-Napoca",
+      "thesis_project": "Music Demixing System using audio source separation techniques based on the U-Net architecture"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "proficiency": "native"
+    },
+    {
+      "language": "English",
+      "proficiency": "proficient user"
+    }
+  ]
+}
